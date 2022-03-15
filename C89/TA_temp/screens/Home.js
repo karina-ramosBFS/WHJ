@@ -15,7 +15,7 @@ export default class HomeScreen extends Component {
             <View style={styles.container}>
                 <SafeAreaView style={styles.droidSafeArea}/>
                     <View style={styles.titleBar}>
-                        <Text style={styles.titleText}>ISS Tracker App</Text>
+                        <Text style={styles.titleText}>Rastreador de ISS</Text>
                     </View>
                     <TouchableOpacity style={styles.routeCard}>
                         <Text style={styles.routeText}>ISS Location</Text>
